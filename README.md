@@ -1,5 +1,8 @@
 ## 基于GPT2-Chinese 生成诗歌
 
+Date:  
+2024/11/11
+
 Pretrained model：  
 gpt2-chinese-cluecorpussmall  
 
